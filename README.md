@@ -26,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # app-habit
+
+![habits](https://user-images.githubusercontent.com/21189063/208290255-55d1e895-cedf-4927-b734-a5130887c9b4.png)
+
